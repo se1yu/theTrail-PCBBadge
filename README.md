@@ -1,4 +1,4 @@
-# theTrail-PCBBadge
+# theTrail-PCBBadge (sorry I know the file names are kind of distracting)
 Created a pcb badge for #the-trail! It's a 2x2 inch metal badge that features an NFC chip inside to scan- leading to a website to view the Trail's groups.
 • Three different colors for three groups!
 • Fusion360 + EasyEDA PCB Design
